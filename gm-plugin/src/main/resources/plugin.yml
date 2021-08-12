@@ -1,0 +1,9 @@
+name: GM-Cmds
+version: ${project.version}
+main: de.florian.gm.commands.main.main
+api-version: 1.17
+authors: [ Flo ]
+
+commands:
+  gm:
+    description: GM!
